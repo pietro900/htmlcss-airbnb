@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#blocco1{
+    background-image: url(https://pbs.twimg.com/profile_images/435800149084758016/36eZdeM4_400x400.jpeg);
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    position: relative;
+}
+
+#uno{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+#blocco2{
+    background-image: url(https://www.10cose.it/wp-content/uploads/2016/04/canale-Nyhavn-copenaghen.jpg);
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+#due{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#blocco3{
+    background-image: url(https://media.wsimag.com/attachments/c101a9f7e990bb3da5633763e4febcb7e590ebda/store/fill/1090/613/2462397cb80ef58bcac4ff3ce86b660205860f67376609b95217c21dce86/Le-luci-di-Tokyo.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    position: relative;
+}
+
+#tre{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+    color:white;
+}
