@@ -10,6 +10,7 @@
     height: 400px;
     width: 400px;
     position: relative;
+    background-color: rgba(0, 0, 0,0.8);
 }
 
 #uno{
@@ -26,6 +27,8 @@
     width: 400px;
     height: 400px;
     position: relative;
+    background-color: rgba(0, 0, 0, 0.3);
+
 }
 
 #due{
@@ -41,6 +44,8 @@
     height: 400px;
     width: 400px;
     position: relative;
+    background-color: rgba(0, 0, 0, 0.5);
+
 }
 
 #tre{
